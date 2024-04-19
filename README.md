@@ -7,7 +7,7 @@
 - `arithmetic.py`: Contains examples of arithmetic operations in Python.
 - `function.py`: Demonstrates the usage of functions in Python.
 - `inheritanceclass.py`: Illustrates the concept of inheritance in Python classes.
-- `loopturtle.py`: Draws a square using a loop with turtle graphics.
+- `loopturtle.py`: Draws a Turtle draw pattern using a loop with turtle graphics.
 - `turtlecircle.py`: Draws a circle using turtle graphics.
 
 ## How to Run:
